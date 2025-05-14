@@ -21,15 +21,15 @@ Website ini dibuat untuk mempermudah pelanggan yang ingin memesan produk dari Je
 
 ## 📁 Struktur File
 
-Web-JastipNihon/
-├── indeks.html # Halaman utama (HOME)
-├── about.html # Tentang layanan
-├── order.html # Form pemesanan
-├── contact.html # Kontak & sosial media
-├── style.css # Gaya umum seluruh halaman
-├── order.css # Gaya khusus untuk halaman order
-├── backsound.mp3 # Musik latar otomatis
-├── README.md # Deskripsi proyek ini
+Web-JastipNihon/  <p>
+├── indeks.html # Halaman utama (HOME) <p>
+├── about.html # Tentang layanan  <p>
+├── order.html # Form pemesanan  <p>
+├── contact.html # Kontak & sosial media  <p>
+├── style.css # Gaya umum seluruh halaman  <p>
+├── order.css # Gaya khusus untuk halaman order <p>
+├── backsound.mp3 # Musik latar otomatis  <p>
+├── README.md # Deskripsi proyek ini  <p>
 
 ---
 
