@@ -45,12 +45,12 @@ Web-JastipNihon/  <p>
 
 ## 🧑‍🎓 Informasi Tugas
 
-- 📚 **Mata Kuliah**: Simulasi Multimedia (Lab)
+- 📚 **Mata Kuliah**: Simulasi Multimedia (iflab)
 - 🧪 **Jenis Tugas**: Proyek individu
 - 👤 **Nama**: Hisyam Fadhilah Bahar
 - 🆔 **NPM**: 50421610
 - 🏫 **Universitas**: Gunadarma
-- 🧾 **Kelas**: 3IA22
+- 🧾 **Kelas**: 4IA22
 
 ---
 
