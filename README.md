@@ -51,7 +51,7 @@ Web-JastipNihon/ <p>
 - 👤 **Nama**: Hisyam Fadhilah Bahar
 - 🆔 **NPM**: 50421610
 - 🏫 **Universitas**: Gunadarma
-- 🧾 **Kelas**: 3IA22
+- 🧾 **Kelas**: 4IA22
 
 ---
 
